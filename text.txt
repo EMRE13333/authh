@@ -1,3 +1,2 @@
 Kapalı
-
-MESSAGE:Bakımdaa!!!!!!!!
+Message: Bakımda
